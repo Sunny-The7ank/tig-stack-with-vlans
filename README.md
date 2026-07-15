@@ -4,7 +4,7 @@ My TIG (Telegraf, InfluxDB, Grafana) stack with VLAN support
 ## What is this?
 A TIG stack that took me way too much trial, error, and research with containerized components in different VLANs.
 ## Why?
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
 
 For fun mostly. I wanted my telegraf agent to influxdb3 traffic to happen over a tagged VLAN that doesn't have internet access.
 
